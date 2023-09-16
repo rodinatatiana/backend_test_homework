@@ -1,0 +1,8 @@
+[tool.ruff]
+line-length = 79
+
+[tool.black]
+line-length = 79
+extend-include = "tests/"
+
+#это файлик для ruff, black
